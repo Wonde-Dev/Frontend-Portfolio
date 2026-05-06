@@ -74,9 +74,9 @@ portfolio/
 
 ## 📬 Contact
 
-* Email: [yourname@example.com](mailto:yourname@example.com)
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* Email: [yourname@example.com](mailto:wonde@gmail.com)
+* GitHub: [https://github.com/yourusername](https://github.com/Wonde-Dev)
+* LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/wonde-tech2026)
 
 ---
 
