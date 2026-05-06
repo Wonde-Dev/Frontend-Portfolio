@@ -17,15 +17,15 @@ I specialize in:
 
 ---
 
-## 🖼️ Home Page Image
+## 🖼️ Home Page Dark Image
 
 
 ![Home Page Image]([home-banner.jpg](https://github.com/Wonde-Dev/Frontend-Portfolio/blob/a573c44a096ff4ed86d469758d24eba2082b1944/HomeDark.png))
 
-## 🖼️ Home Page Image Dark theme
+## 🖼️ Home Page Image Light theme
 
 
-![Home Page Image](home-banner.jpg)
+![Home Page Image](https://github.com/Wonde-Dev/Frontend-Portfolio/blob/9c647b2b30dec0209f69ad49623959dcd6191bb9/HomeLight.png)
 
 📁 Suggested folder structure:
 
@@ -80,28 +80,3 @@ portfolio/
 
 ---
 
-# 📄 LICENSE
-
-This project is licensed under the MIT License.
-
-## MIT License
-
-Copyright (c) 2026 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
