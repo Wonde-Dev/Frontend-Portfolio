@@ -20,7 +20,7 @@ I specialize in:
 ## 🖼️ Home Page Dark Image
 
 
-![Home Page Image](home-banner.jpg](https://github.com/Wonde-Dev/Frontend-Portfolio/blob/a573c44a096ff4ed86d469758d24eba2082b1944/HomeDark.png))
+![Home Page Image](https://github.com/Wonde-Dev/Frontend-Portfolio/blob/b7d61fdb471638bc8ab20f271196fc92ed563654/HomeDark.png)
 
 ## 🖼️ Home Page Image Light theme
 
